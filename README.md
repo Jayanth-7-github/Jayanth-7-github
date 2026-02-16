@@ -11,10 +11,10 @@
 ---
 
 ## 🔥 About Me
-- 🎓 B.Tech CSE Student @ *Kalasalingam Academy (Kalvium Program)*  
-- 💡 Building **scalable web apps & AI-powered tools**  
-- 🌱 Exploring **Cloud, DevOps & AI Integration**  
-- ⚡ Fun fact: I debug faster with **coffee ☕ + music 🎶**  
+- 🎓 B.Tech CSE Student @ **Kalasalingam Academy (Kalvium Program)**  
+- 💡 Building **scalable web applications & AI-powered tools**  
+- 🌱 Currently exploring **Cloud, DevOps, and AI integration**  
+- ⚡ Fun fact: I debug faster with **coffee ☕ + music 🎶**
 
 ---
 
@@ -44,7 +44,7 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 
-### ☁️ Others
+### ☁️ Tools & Platforms
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
@@ -79,11 +79,30 @@
 
 ## 🚀 Featured Projects  
 
-🔹 **E-commerce (MERN Stack)** – Manage products, categories & inventory  
-👉 [GitHub](#) | 🚀 Live (Coming Soon)  
+### 🔹 EcoSphere  
+Disaster response and relief coordination platform to manage resources, volunteers, and affected areas during emergencies.  
+👉 **GitHub:** https://github.com/kalviumcommunity/s81_Jayanth_Ecosphere  
+👉 **Live:** https://ecospheere.netlify.app/  
 
-🔹 **EcoSphere** – Disaster response & relief platform  
-👉 [GitHub](#) | 🚀 Live (Coming Soon)  
+### 🔹 Tara  
+Event management platform for organizing, tracking, and managing event activities and participants.  
+👉 **GitHub:** https://github.com/Jayanth-7-github/Tara  
+👉 **Live:** https://taara.netlify.app/  
+
+### 🔹 Rock Paper Scissors  
+Interactive web-based game featuring smooth UI interactions and responsive design.  
+👉 **GitHub:** https://github.com/Jayanth-7-github/Rock_Paper_Siccors  
+👉 **Live:** https://frolicking-praline-14031b.netlify.app/  
+
+---
+
+## 🌐 Portfolio  
+
+<p align="center">
+  <a href="https://myprofilejayanth.netlify.app/">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -98,4 +117,4 @@
 
 ---
 
-✨ *Crafted with 💻 using React & Tailwind • © 2025 Jayanth Kollepara*
+✨ *Crafted with 💻 by Jayanth Kollepara*
